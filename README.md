@@ -1,3 +1,8 @@
+# Note: THIS IS VERY OLD CODE
+
+A slightly newer tool for helping get started with plugins: https://www.npmjs.com/package/generator-blueocean-usain
+you can also see a real plugin: github.com/jenkinsci/blueocean-pipeline-editor-plugin
+
 Blue Ocean Extension Point implementation sample plugin.
 
 Please check out the following YouTube video for a walk-through of the concepts relating to client-side
